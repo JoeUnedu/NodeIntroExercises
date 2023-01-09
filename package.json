@@ -1,0 +1,14 @@
+{
+  "name": "31-03-13_nodeintroexercises",
+  "version": "1.0.0",
+  "description": "Practice working with Node, NPM, and the file API.",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
